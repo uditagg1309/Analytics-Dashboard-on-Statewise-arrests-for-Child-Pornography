@@ -3,7 +3,7 @@ This dashboard in created using R shiny.
 Link for dashboard: https://udit1309.shinyapps.io/Staewise_arrests_for_Child_Pornography/
 
 Repositry:
-This repositry includes 4 files global.R, UI.R, server.R and Report.md.
+This repositry includes 4 files global.R, UI.R, server.R and Report.pdf.
 First 3 files are to support dashboard while 4th report file contains comprehensive anlysis of data.
 
 Summary of Dashboard:
