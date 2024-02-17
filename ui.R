@@ -5,7 +5,7 @@ ui <- dashboardPage(
     title = "Statewise Cases registered for Child Pornography",
     titleWidth = 650, 
     tags$li(class = "dropdown", tags$a(href = "https://www.linkedin.com/in/udit-aggarwal-02178911b/", icon("linkedin"), "My Profile", target = "_blank")),
-    tags$li(class = "dropdown", tags$a(href = "https://github.com/uditagg1309", icon("github"), "My GitHub", target = "_blank"))
+    tags$li(class = "dropdown", tags$a(href = "https://github.com/uditagg1309/Analytics-Dashboard-on-Statewise-arrests-for-Child-Pornography", icon("github"), "Source code and Report", target = "_blank"))
   ),
   dashboardSidebar(
     sidebarMenu(
