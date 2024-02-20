@@ -10,6 +10,6 @@ Summary of Dashboard:
 First tab i.e. Data tab covers summary of data. Second Tab i.e. Visualization tab covers interactive graphs and third tab i.e. Analysis tab covers ANOVA tests to check if cases have risen over the years.
 
 Credits:
-Data: data.gov.in
+Data: data.gov.in (https://data.gov.in/resource/stateut-wise-number-cr-ccs-con-par-pcs-and-pcv-under-cyber-pornography-hosting-or)
 
 Code inspiration: Abhinav Aggarwal Youtube Channel (https://www.youtube.com/watch?v=tlOBVZx8Hy0)
